@@ -1,6 +1,7 @@
 # adventure1
 
-An adventure game
+ Adventure is a simple app that takes the user through a different story route based on the selected buttons.
+ It is built with flutter and the state is managed by flutter's setState method.
 
 ## Getting Started
 
